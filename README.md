@@ -6,8 +6,6 @@ The main purpose of the project is to provide fancier and easier visualization o
 
 It has been tested on Windows 10, Fedora 28 and ubuntu 16.04.
 
-[中文版说明](docs/README.cn.md)
-
 ## Features
 
 ### Large Scale 3D Models
